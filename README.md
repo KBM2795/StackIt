@@ -57,10 +57,6 @@ Welcome to the StackIt , a sophisticated full-stack web application meticulously
 
 The application is deployed on Vercel, offering a reliable and scalable hosting solution.
 
-## Explore the Project
-
-- **Live Demo:** [StackIt Clone](https://stack-overflow-jet.vercel.app/)
-- **GitHub Repository:** [StackIt Clone Repository](https://github.com/sumanth-botlagunta/stack_overflow_next13)
 
 ## Getting Started
 
