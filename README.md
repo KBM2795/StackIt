@@ -101,14 +101,6 @@ Follow these steps to set up the project locally:
     npm run dev
     ```
 
-## Contributing
 
-Contributions are welcomed! Feel free to open issues, submit pull requests, or provide feedback to enhance the project.
-
-## Acknowledgments
-
-Special thanks to [@javascriptmastery](https://www.youtube.com/@javascriptmastery) for an outstanding tutorial on Next.js app router and server actions. This application was built as part of the learning journey inspired by his teaching style. Check out his [course](https://www.jsmastery.pro/ultimate-next-course) for an in-depth exploration of Next.js.
-
----
 
 Thank you for exploring the StackIt Clone! We hope you enjoy the collaborative and engaging experience it offers. If you have any questions or suggestions, feel free to reach out. Happy coding! 😊
